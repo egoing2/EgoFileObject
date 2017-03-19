@@ -1,5 +1,5 @@
 {
-  "name":"EgoFileObject",
+  "name":"egoing/EgoFileObject",
   "description":"Advenced SplFileObject",
   "minimum-stability": "dev",
   "autoload": {
