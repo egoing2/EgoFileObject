@@ -1,7 +1,6 @@
 {
   "name":"egoing/ego-file-object",
   "description":"Advenced SplFileObject",
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "opentutorials\\": "src"
