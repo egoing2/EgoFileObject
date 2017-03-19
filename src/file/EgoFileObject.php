@@ -1,5 +1,6 @@
 <?php
-class EgoFileObject extends SplFileObject
+namespace opentutorials\file;
+class EgoFileObject extends \SplFileObject
 {
     function getContents(){
         $content = $this->fread($this->getSize());
