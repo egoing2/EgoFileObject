@@ -1,6 +1,6 @@
 {
-  "name":"Advenced SplFileObject",
-  "description":"",
+  "name":"EgoFileObject",
+  "description":"Advenced SplFileObject",
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
