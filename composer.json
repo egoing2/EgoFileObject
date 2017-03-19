@@ -1,0 +1,10 @@
+{
+  "name":"Advenced SplFileObject",
+  "description":"",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "opentutorials\\": "src"
+    }
+  }
+}
